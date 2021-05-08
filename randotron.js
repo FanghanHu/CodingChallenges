@@ -1,3 +1,6 @@
+//We first create an array with numbers from 1 to 10000, then we shuffle it with Fisher-yates shuffle.
+
+
 console.time("Total Time");
 
 //fill the array with numbers from 1 to 10000;
